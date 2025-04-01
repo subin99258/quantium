@@ -9,7 +9,7 @@ pyvenv.cfg
 # Ignore checkpoints
 .ipynb_checkpoints/
 
-# Ignore all CSV files (if you want to ignore ALL csvs)
+
 
 
 # Ignore python cache
